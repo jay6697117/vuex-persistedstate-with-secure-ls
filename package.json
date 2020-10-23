@@ -1,0 +1,19 @@
+{
+  "name": "vuex-persistedstate-with-secure-ls-encrypted-data",
+  "version": "1.0.0",
+  "description": "Example of how to store encrypted data with vuex-persistedstate",
+  "keywords": [
+    "vuex-persistedstate",
+    "secure",
+    "encrypted",
+    "secure-ls",
+    "vue"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "secure-ls": "1.2.5",
+    "vue": "2.5.22",
+    "vuex": "3.1.0",
+    "vuex-persistedstate": "2.5.4"
+  }
+}
